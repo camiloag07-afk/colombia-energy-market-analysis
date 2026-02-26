@@ -1,6 +1,3 @@
-# colombia-energy-market-analysis
-Data analysis of spot prices and hydro-reserves in Colombia using Python.
-
 # Colombia Energy Market Analysis: Climate Vulnerability & Spot Prices
 
 # Project Overview
