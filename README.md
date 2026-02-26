@@ -15,3 +15,6 @@ To analyze historical spot prices and reservoir levels (2021-2026) to demonstrat
 1. **Perfect Inverse Correlation:** The data reveals a direct and immediate market reaction to water scarcity. 
 2. **The 2024 "El Niño" Crisis:** During early 2024, as reservoir levels plummeted near the critical 30% threshold (blue line), the daily weighted average spot price (red line) skyrocketed, peaking above 2,400 COP/kWh.
 3. **Market Vulnerability:** This analysis mathematically proves the severe financial exposure of the spot market to climate variability, highlighting the urgent business need to accelerate the integration of non-conventional renewable energy sources (Solar/Wind) to diversify the matrix.
+
+<img width="1389" height="590" alt="PvR" src="https://github.com/user-attachments/assets/2abe13b4-f71b-4f7b-a584-df4c9f63b6e2" />
+
